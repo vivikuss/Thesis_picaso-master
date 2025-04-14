@@ -1,0 +1,196 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "natashabatalha",
+      "name": "Natasha Batalha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6554465?v=4",
+      "profile": "http://natashabatalha.github.io",
+      "contributions": [
+        "code",
+        "mentoring",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "Rangertreaty33",
+      "name": "Roman St. Gerard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106419391?v=4",
+      "profile": "https://github.com/Rangertreaty33",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Kappibw",
+      "name": "Kappibw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4071244?v=4",
+      "profile": "http://www.thinkkappi.com",
+      "contributions": [
+        "bug",
+        "doc"
+      ]
+    },
+    {
+      "login": "lcmayor",
+      "name": "Laura C. Mayorga",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13788703?v=4",
+      "profile": "https://github.com/lcmayor",
+      "contributions": [
+        "bug",
+        "code"
+      ]
+    },
+    {
+      "login": "EhsanGharibNezhad",
+      "name": "Ehsan Gharib-Nezhad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22139918?v=4",
+      "profile": "https://www.linkedin.com/in/ehsan-gharib-nezhad/",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "caoimherooney11",
+      "name": "Caoimhe Rooney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24413015?v=4",
+      "profile": "https://github.com/caoimherooney11",
+      "contributions": [
+        "research",
+        "code"
+      ]
+    },
+    {
+      "login": "sagnickm",
+      "name": "Sagnick Mukherjee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55552916?v=4",
+      "profile": "https://github.com/sagnickm",
+      "contributions": [
+        "research",
+        "code"
+      ]
+    },
+    {
+      "login": "ninarobbins",
+      "name": "Nina Robbins Blanch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43654406?v=4",
+      "profile": "https://github.com/ninarobbins",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "MartianColonist",
+      "name": "Ryan MacDonald",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22718554?v=4",
+      "profile": "https://github.com/MartianColonist",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "sirpetergao",
+      "name": "Peter Gao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20616506?v=4",
+      "profile": "https://epl.carnegiescience.edu/people/peter-gao",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "nklewis",
+      "name": "Nikole Lewis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16822846?v=4",
+      "profile": "https://github.com/nklewis",
+      "contributions": [
+        "bug",
+        "mentoring"
+      ]
+    },
+    {
+      "login": "exobd",
+      "name": "Mark Marley",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38989139?v=4",
+      "profile": "https://github.com/exoBD",
+      "contributions": [
+        "mentoring",
+        "ideas",
+        "research"
+      ]
+    },
+    {
+      "login": "drtkat",
+      "name": "Tiffany Kataria",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10516244?v=4",
+      "profile": "https://github.com/drtkat",
+      "contributions": [
+        "bug",
+        "mentoring"
+      ]
+    },
+    {
+      "login": "jjfplanet",
+      "name": "jjfplanet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42284609?v=4",
+      "profile": "https://github.com/jjfplanet",
+      "contributions": [
+        "ideas",
+        "mentoring",
+        "fundingFinding"
+      ]
+    },
+    {
+      "login": "Ziva18t",
+      "name": "Ziva18t",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107640508?v=4",
+      "profile": "https://github.com/Ziva18t",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "James-Mang",
+      "name": "James",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33335954?v=4",
+      "profile": "https://jamesmang.wixsite.com/jamesmang",
+      "contributions": [
+        "code",
+        "research"
+      ]
+    },
+    {
+      "login": "astrocaroline",
+      "name": "astrocaroline",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10456842?v=4",
+      "profile": "https://github.com/astrocaroline",
+      "contributions": [
+        "mentoring",
+        "ideas",
+        "fundingFinding",
+        "research"
+      ]
+    },
+    {
+      "login": "rewaclarkbush",
+      "name": "rewaclarkbush",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85771931?v=4",
+      "profile": "https://github.com/rewaclarkbush",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "picaso",
+  "projectOwner": "natashabatalha",
+  "commitType": "docs"
+}
