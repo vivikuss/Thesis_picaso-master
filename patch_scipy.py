@@ -3,9 +3,12 @@ import numpy as np
 
 # Monkey-patch: add 'trapz' to 'scipy.integrate' if missing
 if not hasattr(scipy.integrate, 'trapz'):
-    scipy.integrate.trapz = np.trapz
+    scipy.integrate.trapz = np.trapezoid
 
 # Monkey-patch: add 'simps' to 'scipy.integrate' if missing
 if not hasattr(scipy.integrate, 'simps'):
     scipy.integrate.simps = scipy.integrate.simpson
 
+# Monkey-patch: add 'np.all' to 'numpy' if missing
+if not hasattr(np, 'alltrue'):
+    np.alltrue = np.all
