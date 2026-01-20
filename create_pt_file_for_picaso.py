@@ -4,8 +4,9 @@ import matplotlib.pyplot as plt
 
 # Paths to folder with results and PICASO base cases folder
 ### ADJUST THIS PART ###
-res_folder_path = '/Users/new/Desktop/THESIS'
-output_folder_path = '/Users/new/Desktop/THESIS/THESIS_picaso-master/reference/base_cases'
+user = f"/Users/new/Desktop/"    #### CUSTOMIZE ####
+res_folder_path = user + 'Thesis_Data'
+output_folder_path = user + 'Thesis_picaso-master-main/reference/base_cases'
 
 # Folder names of results and model names
 ### ADJUST THIS PART ###
