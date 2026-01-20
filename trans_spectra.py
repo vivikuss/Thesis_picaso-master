@@ -7,8 +7,9 @@ import os
 
 ### ADJUST THIS PART ###
 # Paths
-os.environ['picaso_refdata'] = '/Users/new/Desktop/THESIS/THESIS_picaso-master/reference'
-os.environ['PYSYN_CDBS'] = '/Users/new/Desktop/THESIS/THESIS_picaso-master' 
+user = f"/Users/new/Desktop/"
+os.environ['picaso_refdata'] = user + 'Thesis_picaso-master-main/reference'
+os.environ['PYSYN_CDBS'] = user + 'Thesis_picaso-master-main/picaso' 
 plot_labels = [r'99% He, 1% CO$_2$', r'50% He, 50% CO$_2$',r'99% H$_2$, 1% CO$_2$'] # plot labels
 ######
 
