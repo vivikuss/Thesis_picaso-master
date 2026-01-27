@@ -46,8 +46,8 @@ jpi.output_notebook()
 
 ### LHS 1140b ###
 # Planet's Properties
-mpla = 0.0176           # Mjup ##### Wunderlich 2020/Cherubim 2025
-rpla = 0.1543            # Rjup ##### Wunderlich 2020/Cherubim 2025
+mpla = 0.0176           # Mjup ##### Cadieux 2024/Cherubim 2025
+rpla = 0.1543            # Rjup ##### Cadieux 2024/Cherubim 2025
 ps = 20
 
 # Star's Properties
